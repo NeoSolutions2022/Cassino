@@ -41,5 +41,10 @@ public class UsuarioMap : IEntityTypeConfiguration<Usuario>
         builder
             .Property(c => c.Saldo)
             .HasPrecision(18, 2);
+
+        builder
+            .Property(c => c.ChavePix)
+            .IsRequired()
+            .HasMaxLength(80);
     }
 }

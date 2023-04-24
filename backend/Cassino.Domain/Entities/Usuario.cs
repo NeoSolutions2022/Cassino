@@ -14,6 +14,7 @@ public class Usuario : Entity, ISoftDelete, IAggregateRoot
     public string Senha { get; set; } = null!;
     public bool Desativado { get; set; }
     public decimal Saldo { get; set; }
+    public string ChavePix { get; set; } = null!;
 
     public override bool Validar(out ValidationResult validationResult)
     {

@@ -22,5 +22,8 @@ public class UsuarioValidator: AbstractValidator<Usuario>
 
         RuleFor(u => u.Desativado)
             .NotNull();
+
+        RuleFor(u => u.ChavePix)
+            .NotEmpty();
     }
 }

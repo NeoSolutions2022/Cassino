@@ -11,4 +11,5 @@ public class CadastrarUsuarioDto
     public bool? Inadiplente { get; set; }
     public DateTime DataPagamento { get; set; }
     public bool Desativado { get; set; }
+    public string ChavePix { get; set; } = null!;
 }
