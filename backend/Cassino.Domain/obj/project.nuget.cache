@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "uSS1EZ51BQikAA29b4pg2Ww2UQUzJz6zayCZ5UIZkC/cMSdjkWvtMJRVgd1N+oL/11sDTGK7uqXtqwKqqPGDWg==",
+  "dgSpecHash": "6bLHpoFh6MJRttaoYrE5vxXTlmxGYIAjDNB3O7yyVaypsZ6aF5TXX8oGm6LPYyZFnYxt3t896HPF3GdJ0tpCXw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\felip\\OneDrive\\Documentos\\GitHub\\Cassino\\backend\\Cassino.Domain\\Cassino.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Usuário\\Documents\\GitHub Clones\\Cassino\\backend\\Cassino.Domain\\Cassino.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\felip\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512"
+    "C:\\Users\\Usuário\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512"
   ],
   "logs": []
 }

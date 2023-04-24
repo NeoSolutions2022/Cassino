@@ -1,0 +1,41 @@
+# Arquivos de compilação
+*.dll
+*.exe
+*.pdb
+
+# Arquivos de objeto
+*.obj
+*.o
+*.a
+*.lib
+
+# Arquivos de publicação
+bin/
+obj/
+
+# Dependências do NuGet
+## diretório do pacote
+packages/
+
+## arquivos de cache
+*.local
+*.user
+*.suo
+*.bak
+*.cache
+*.log
+*.vspscc
+*.vssscc
+
+# Arquivos de configuração do Visual Studio
+*.csproj.user
+*.csproj.vspscc
+*.sln.docstates
+*.sln.ide
+
+# Arquivos de compilação do Razor
+Generated_Code/
+
+# Arquivos de configuração do aplicativo
+appsettings.json
+appsettings.Development.json

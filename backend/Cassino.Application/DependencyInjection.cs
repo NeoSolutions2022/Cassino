@@ -34,6 +34,8 @@ public static class DependencyInjection
         services
             .AddScoped<IAuthService, AuthService>()
             .AddScoped<INotificator, Notificator>()
+            .AddScoped<IUsuarioService, UsuarioService>()
+            .AddScoped<ISaldoService, SaldoService>()
             .AddScoped<IUsuarioAuthService, UsuarioAuthService>()
             .AddScoped<IPasswordHasher<Administrador>, Argon2PasswordHasher<Administrador>>()
             .AddScoped<IPasswordHasher<Usuario>, Argon2PasswordHasher<Usuario>>();

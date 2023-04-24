@@ -1,6 +1,7 @@
 using AutoMapper;
 using Cassino.Application.Contracts;
 using Cassino.Application.Dtos.V1.Base;
+using Cassino.Application.Dtos.V1.Saldo;
 using Cassino.Application.Dtos.V1.Usuario;
 using Cassino.Application.Notification;
 using Cassino.Domain.Contracts.Repositories;

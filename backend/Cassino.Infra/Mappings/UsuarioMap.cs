@@ -37,5 +37,9 @@ public class UsuarioMap : IEntityTypeConfiguration<Usuario>
             .Property(c => c.Senha)
             .IsRequired()
             .HasMaxLength(255);
+
+        builder
+            .Property(c => c.Saldo)
+            .HasPrecision(18, 2);
     }
 }

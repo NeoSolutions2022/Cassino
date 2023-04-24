@@ -13,6 +13,7 @@ public class Usuario : Entity, ISoftDelete, IAggregateRoot
     public string? Telefone { get; set; }
     public string Senha { get; set; } = null!;
     public bool Desativado { get; set; }
+    public decimal Saldo { get; set; }
 
     public override bool Validar(out ValidationResult validationResult)
     {
