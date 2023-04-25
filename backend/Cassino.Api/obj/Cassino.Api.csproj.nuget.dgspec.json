@@ -264,10 +264,10 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\Usuário\\Documents\\GitHub Clones\\Cassino\\backend\\Cassino.Core\\Cassino.Core.csproj",
-        "projectName": "Cassino.Core",
+        "projectName": "Cassino.Infra",
         "projectPath": "C:\\Users\\Usuário\\Documents\\GitHub Clones\\Cassino\\backend\\Cassino.Core\\Cassino.Core.csproj",
         "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuário\\Documents\\GitHub Clones\\Cassino\\backend\\Cassino.Core\\obj\\",
+        "outputPath": "C:\\Users\\Usuário\\Documents\\GitHub Clones\\Cassino\\backend\\Cassino.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -287,7 +287,14 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Usuário\\Documents\\GitHub Clones\\Cassino\\backend\\Cassino.Core\\Cassino.Core.csproj": {
+                "projectPath": "C:\\Users\\Usuário\\Documents\\GitHub Clones\\Cassino\\backend\\Cassino.Core\\Cassino.Core.csproj"
+              },
+              "C:\\Users\\Usuário\\Documents\\GitHub Clones\\Cassino\\backend\\Cassino.Domain\\Cassino.Domain.csproj": {
+                "projectPath": "C:\\Users\\Usuário\\Documents\\GitHub Clones\\Cassino\\backend\\Cassino.Domain\\Cassino.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
