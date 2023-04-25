@@ -1,0 +1,301 @@
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Cassino.Api.exe
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Cassino.Api.deps.json
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Cassino.Api.runtimeconfig.json
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Cassino.Api.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Cassino.Api.pdb
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\DateOnlyTimeOnly.AspNet.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\DateOnlyTimeOnly.AspNet.Swashbuckle.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Systemd.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\OpenTelemetry.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\OpenTelemetry.Api.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\OpenTelemetry.Exporter.Console.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\OpenTelemetry.Exporter.Jaeger.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\OpenTelemetry.Exporter.Zipkin.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\OpenTelemetry.Extensions.Hosting.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\OpenTelemetry.Instrumentation.EntityFrameworkCore.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\OpenTelemetry.Instrumentation.Http.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\OpenTracing.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\ScottBrady91.AspNetCore.Identity.Argon2PasswordHasher.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Serilog.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Sodium.Core.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libsodium.so
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\runtimes\linux-x64\native\libsodium.so
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\runtimes\osx-x64\native\libsodium.dylib
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\runtimes\win-x64\native\libsodium.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\runtimes\win-x86\native\libsodium.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Cassino.Application.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Cassino.Core.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Cassino.Domain.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Cassino.Infra.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Cassino.Application.pdb
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Cassino.Infra.pdb
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Cassino.Core.pdb
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Cassino.Domain.pdb
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\obj\Debug\net6.0\Cassino.Api.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\obj\Debug\net6.0\Cassino.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\obj\Debug\net6.0\Cassino.Api.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\obj\Debug\net6.0\Cassino.Api.AssemblyInfo.cs
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\obj\Debug\net6.0\Cassino.Api.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\obj\Debug\net6.0\Cassino.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\obj\Debug\net6.0\Cassino.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\obj\Debug\net6.0\staticwebassets\msbuild.Cassino.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Cassino.Api.props
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Cassino.Api.props
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Cassino.Api.props
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\obj\Debug\net6.0\scopedcss\bundle\Cassino.Api.styles.css
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\obj\Debug\net6.0\Cassino.Api.csproj.CopyComplete
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\obj\Debug\net6.0\Cassino.Api.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\obj\Debug\net6.0\refint\Cassino.Api.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\obj\Debug\net6.0\Cassino.Api.pdb
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\obj\Debug\net6.0\Cassino.Api.genruntimeconfig.cache
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Api\obj\Debug\net6.0\ref\Cassino.Api.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Cassino.Api.exe
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Cassino.Api.deps.json
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Cassino.Api.runtimeconfig.json
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Cassino.Api.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Cassino.Api.pdb
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\DateOnlyTimeOnly.AspNet.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\DateOnlyTimeOnly.AspNet.Swashbuckle.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Systemd.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\OpenTelemetry.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\OpenTelemetry.Api.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\OpenTelemetry.Exporter.Console.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\OpenTelemetry.Exporter.Jaeger.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\OpenTelemetry.Exporter.Zipkin.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\OpenTelemetry.Extensions.Hosting.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\OpenTelemetry.Instrumentation.EntityFrameworkCore.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\OpenTelemetry.Instrumentation.Http.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\OpenTracing.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\ScottBrady91.AspNetCore.Identity.Argon2PasswordHasher.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Serilog.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Sodium.Core.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libsodium.so
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\runtimes\linux-x64\native\libsodium.so
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\runtimes\osx-x64\native\libsodium.dylib
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\runtimes\win-x64\native\libsodium.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\runtimes\win-x86\native\libsodium.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Cassino.Application.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Cassino.Core.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Cassino.Domain.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Cassino.Infra.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Cassino.Application.pdb
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Cassino.Infra.pdb
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Cassino.Core.pdb
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\bin\Debug\net6.0\Cassino.Domain.pdb
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\obj\Debug\net6.0\Cassino.Api.csproj.AssemblyReference.cache
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\obj\Debug\net6.0\Cassino.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\obj\Debug\net6.0\Cassino.Api.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\obj\Debug\net6.0\Cassino.Api.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\obj\Debug\net6.0\Cassino.Api.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\obj\Debug\net6.0\Cassino.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\obj\Debug\net6.0\Cassino.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\obj\Debug\net6.0\scopedcss\bundle\Cassino.Api.styles.css
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\obj\Debug\net6.0\Cassino.Api.csproj.CopyComplete
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\obj\Debug\net6.0\Cassino.Api.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\obj\Debug\net6.0\refint\Cassino.Api.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\obj\Debug\net6.0\Cassino.Api.pdb
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\obj\Debug\net6.0\Cassino.Api.genruntimeconfig.cache
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Api\obj\Debug\net6.0\ref\Cassino.Api.dll

@@ -1,0 +1,34 @@
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Infra\bin\Debug\net6.0\Cassino.Infra.deps.json
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Infra\bin\Debug\net6.0\Cassino.Infra.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Infra\bin\Debug\net6.0\Cassino.Infra.pdb
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Infra\bin\Debug\net6.0\Cassino.Core.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Infra\bin\Debug\net6.0\Cassino.Domain.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Infra\bin\Debug\net6.0\Cassino.Core.pdb
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Infra\bin\Debug\net6.0\Cassino.Domain.pdb
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Infra\obj\Debug\net6.0\Cassino.Infra.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Infra\obj\Debug\net6.0\Cassino.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Infra\obj\Debug\net6.0\Cassino.Infra.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Infra\obj\Debug\net6.0\Cassino.Infra.AssemblyInfo.cs
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Infra\obj\Debug\net6.0\Cassino.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Infra\obj\Debug\net6.0\Cassino.Infra.csproj.CopyComplete
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Infra\obj\Debug\net6.0\Cassino.Infra.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Infra\obj\Debug\net6.0\refint\Cassino.Infra.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Infra\obj\Debug\net6.0\Cassino.Infra.pdb
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Infra\obj\Debug\net6.0\ref\Cassino.Infra.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Infra\bin\Debug\net6.0\Cassino.Infra.deps.json
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Infra\bin\Debug\net6.0\Cassino.Infra.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Infra\bin\Debug\net6.0\Cassino.Infra.pdb
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Infra\bin\Debug\net6.0\Cassino.Core.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Infra\bin\Debug\net6.0\Cassino.Domain.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Infra\bin\Debug\net6.0\Cassino.Core.pdb
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Infra\bin\Debug\net6.0\Cassino.Domain.pdb
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Infra\obj\Debug\net6.0\Cassino.Infra.csproj.AssemblyReference.cache
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Infra\obj\Debug\net6.0\Cassino.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Infra\obj\Debug\net6.0\Cassino.Infra.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Infra\obj\Debug\net6.0\Cassino.Infra.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Infra\obj\Debug\net6.0\Cassino.Infra.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Infra\obj\Debug\net6.0\Cassino.Infra.csproj.CopyComplete
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Infra\obj\Debug\net6.0\Cassino.Infra.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Infra\obj\Debug\net6.0\refint\Cassino.Infra.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Infra\obj\Debug\net6.0\Cassino.Infra.pdb
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Infra\obj\Debug\net6.0\ref\Cassino.Infra.dll

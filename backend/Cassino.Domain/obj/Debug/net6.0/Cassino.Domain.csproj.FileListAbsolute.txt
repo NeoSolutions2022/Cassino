@@ -1,0 +1,24 @@
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Domain\bin\Debug\net6.0\Cassino.Domain.deps.json
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Domain\bin\Debug\net6.0\Cassino.Domain.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Domain\bin\Debug\net6.0\Cassino.Domain.pdb
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Domain\obj\Debug\net6.0\Cassino.Domain.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Domain\obj\Debug\net6.0\Cassino.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Domain\obj\Debug\net6.0\Cassino.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Domain\obj\Debug\net6.0\Cassino.Domain.AssemblyInfo.cs
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Domain\obj\Debug\net6.0\Cassino.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Domain\obj\Debug\net6.0\Cassino.Domain.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Domain\obj\Debug\net6.0\refint\Cassino.Domain.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Domain\obj\Debug\net6.0\Cassino.Domain.pdb
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Domain\obj\Debug\net6.0\ref\Cassino.Domain.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Domain\bin\Debug\net6.0\Cassino.Domain.deps.json
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Domain\bin\Debug\net6.0\Cassino.Domain.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Domain\bin\Debug\net6.0\Cassino.Domain.pdb
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Domain\obj\Debug\net6.0\Cassino.Domain.csproj.AssemblyReference.cache
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Domain\obj\Debug\net6.0\Cassino.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Domain\obj\Debug\net6.0\Cassino.Domain.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Domain\obj\Debug\net6.0\Cassino.Domain.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Domain\obj\Debug\net6.0\Cassino.Domain.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Domain\obj\Debug\net6.0\Cassino.Domain.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Domain\obj\Debug\net6.0\refint\Cassino.Domain.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Domain\obj\Debug\net6.0\Cassino.Domain.pdb
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Domain\obj\Debug\net6.0\ref\Cassino.Domain.dll

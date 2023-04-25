@@ -1,0 +1,24 @@
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Core\bin\Debug\net6.0\Cassino.Core.deps.json
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Core\bin\Debug\net6.0\Cassino.Core.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Core\bin\Debug\net6.0\Cassino.Core.pdb
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Core\obj\Debug\net6.0\Cassino.Core.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Core\obj\Debug\net6.0\Cassino.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Core\obj\Debug\net6.0\Cassino.Core.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Core\obj\Debug\net6.0\Cassino.Core.AssemblyInfo.cs
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Core\obj\Debug\net6.0\Cassino.Core.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Core\obj\Debug\net6.0\Cassino.Core.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Core\obj\Debug\net6.0\refint\Cassino.Core.dll
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Core\obj\Debug\net6.0\Cassino.Core.pdb
+C:\Users\Usuário\Documents\GitHub Clones\Cassino\backend\Cassino.Core\obj\Debug\net6.0\ref\Cassino.Core.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Core\bin\Debug\net6.0\Cassino.Core.deps.json
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Core\bin\Debug\net6.0\Cassino.Core.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Core\bin\Debug\net6.0\Cassino.Core.pdb
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Core\obj\Debug\net6.0\Cassino.Core.csproj.AssemblyReference.cache
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Core\obj\Debug\net6.0\Cassino.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Core\obj\Debug\net6.0\Cassino.Core.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Core\obj\Debug\net6.0\Cassino.Core.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Core\obj\Debug\net6.0\Cassino.Core.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Core\obj\Debug\net6.0\Cassino.Core.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Core\obj\Debug\net6.0\refint\Cassino.Core.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Core\obj\Debug\net6.0\Cassino.Core.pdb
+C:\Users\felip\OneDrive\Documentos\GitHub\Cassino\backend\Cassino.Core\obj\Debug\net6.0\ref\Cassino.Core.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bD6qfWLyJ2CnlI6QBpmdY57586E8hctLr8+pVUjVa2Q=",
+  "Source": "Cassino.Api",
+  "BasePath": "_content/Cassino.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
