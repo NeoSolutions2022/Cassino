@@ -7,8 +7,6 @@ public class BuscarUsuarioDto : BuscaPaginadaDto<Domain.Entities.Usuario>
 {
     public string? Nome { get; set; }
     public string? NomeSocial { get; set; }
-    public bool? Inadiplente { get; set; }
-    public DateTime? DataPagamento { get; set; }
     public bool? Desativado { get; set; }
 
     public override void AplicarFiltro(ref IQueryable<Domain.Entities.Usuario> query)

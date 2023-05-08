@@ -1,7 +1,9 @@
 ﻿using System.Reflection;
 using Cassino.Application.Contracts;
+using Cassino.Application.Contracts.temp;
 using Cassino.Application.Notification;
 using Cassino.Application.Services;
+using Cassino.Application.Services.temp;
 using Cassino.Core.Settings;
 using Cassino.Domain.Entities;
 using Cassino.Infra;
@@ -34,6 +36,7 @@ public static class DependencyInjection
         services
             .AddScoped<IAuthService, AuthService>()
             .AddScoped<INotificator, Notificator>()
+            .AddScoped<IRendaCasaService, RendaCasaService>()
             .AddScoped<IUsuarioService, UsuarioService>()
             .AddScoped<ISaldoService, SaldoService>()
             .AddScoped<IUsuarioAuthService, UsuarioAuthService>()

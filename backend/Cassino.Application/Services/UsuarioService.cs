@@ -163,9 +163,9 @@ public class UsuarioService : BaseService, IUsuarioService
             c.Cpf == usuario.Cpf || c.Email == usuario.Email && c.Id != usuario.Id);
         if (usuarioExistente != null)
         {
-            Notificator.Handle("Já existe um usuário cadastrador com uma ou mais identificações");
+            Notificator.Handle("Já existe um usuário cadastrado com mesmo email ou cpf.");
         }
-        
+        //  Validação de maior de idade
         return !Notificator.HasNotification;
     }
 }

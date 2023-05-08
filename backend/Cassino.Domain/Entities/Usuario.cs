@@ -12,6 +12,7 @@ public class Usuario : Entity, ISoftDelete, IAggregateRoot
     public string Cpf { get; set; } = null!;
     public string? Telefone { get; set; }
     public string Senha { get; set; } = null!;
+    public DateOnly DataDeNascimento { get; set; }
     public bool Desativado { get; set; }
     public decimal Saldo { get; set; }
     public string ChavePix { get; set; } = null!;

@@ -2,6 +2,7 @@
 using Cassino.Core.Authorization;
 using Cassino.Domain.Contracts;
 using Cassino.Domain.Entities;
+using Cassino.Domain.Entities.temp;
 using Cassino.Infra.Converters;
 using Cassino.Infra.Extensions;
 using FluentValidation.Results;
@@ -20,6 +21,7 @@ public abstract class BaseApplicationDbContext : DbContext, IUnitOfWork
 
     public DbSet<Administrador> Administradores { get; set; } = null!;
     public DbSet<Usuario> Usuarios { get; set; } = null!;
+    public DbSet<Renda> Rendas { get; set; } = null!;
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

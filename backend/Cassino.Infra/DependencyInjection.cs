@@ -1,8 +1,10 @@
 ﻿using Cassino.Core.Authorization;
 using Cassino.Core.Extensions;
 using Cassino.Domain.Contracts.Repositories;
+using Cassino.Domain.Contracts.Repositories.temp;
 using Cassino.Infra.Context;
 using Cassino.Infra.Repositories;
+using Cassino.Infra.Repositories.temp;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Http;
 using Microsoft.EntityFrameworkCore;
@@ -45,6 +47,7 @@ public static class DependencyInjection
     {
         service
             .AddScoped<IAdministradorRepository, AdministradorRepository>()
+            .AddScoped<IRendaCasaRepository, RendaCasaRepository>()
             .AddScoped<IUsuarioRepository, UsuarioRepository>();
     }
 

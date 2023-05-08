@@ -17,5 +17,11 @@ public class AutoMapperProfile : Profile
         CreateMap<PagedDto<Application.Dtos.V1.Administrador.BuscarAdministradorDto>, ResultadoPaginado<Administrador>>().ReverseMap();
 
         #endregion
+        
+        
+        CreateMap<Application.Dtos.V1.Usuario.CadastrarUsuarioDto, Usuario>().ReverseMap();
+        CreateMap<Application.Dtos.V1.Usuario.AlterarUsuarioDto, Usuario>().ReverseMap();
+        CreateMap<Application.Dtos.V1.Usuario.UsuarioDto, Usuario>().ReverseMap();
+        CreateMap<Application.Dtos.V1.Usuario.BuscarUsuarioDto, ResultadoPaginado<Usuario>>().ReverseMap();
     }
 }

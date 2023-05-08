@@ -23,7 +23,12 @@ public class UsuarioValidator: AbstractValidator<Usuario>
         RuleFor(u => u.Desativado)
             .NotNull();
 
+<<<<<<< HEAD
         RuleFor(u => u.ChavePix)
             .NotEmpty();
+=======
+        RuleFor(u => u.DataDeNascimento)
+            .NotNull();
+>>>>>>> origin/main
     }
 }
